@@ -8,32 +8,6 @@ function Header() {
           <div className="text-white text-2xl font-semibold">
             Blog Herbolario
           </div>
-          <ul className="flex space-x-4">
-            <li>
-              <a
-                href="/"
-                className="text-white hover:text-green-200 transition duration-300"
-              >
-                Inicio
-              </a>
-            </li>
-            <li>
-              <a
-                href="/acerca-de"
-                className="text-white hover:text-green-200 transition duration-300"
-              >
-                Acerca de
-              </a>
-            </li>
-            <li>
-              <a
-                href="/contacto"
-                className="text-white hover:text-green-200 transition duration-300"
-              >
-                Contacto
-              </a>
-            </li>
-          </ul>
         </nav>
       </div>
     </header>
